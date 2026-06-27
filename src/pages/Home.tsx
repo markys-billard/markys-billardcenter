@@ -39,8 +39,8 @@ export default function Home() {
 
   const upcomingEvents = [
     {
-      date: '25',
-      month: 'July',
+      date: '27',
+      month: 'Juni',
       titleKey: 'home.tournamentTitle',
       descriptionKey: 'home.tournamentDesc',
       link: '/turniere',
