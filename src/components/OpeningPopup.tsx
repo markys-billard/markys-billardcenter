@@ -51,7 +51,8 @@ export default function OpeningPopup() {
           <div className="flex flex-col md:flex-row">
             <div className="md:w-2/5 bg-gradient-to-br from-orange to-orange/80 p-8 flex items-center justify-center">
               <div className="text-center">
-                <PartyPopper size={80} className="text-ink mx-auto mb-4" />
+                {/*<PartyPopper size={80} className="text-ink mx-auto mb-4" />*/}
+                <div className="text-7xl mb-4">🏖️</div>
                 <p className="text-5xl md:text-6xl font-bold text-ink"></p>
                 <p className="text-2xl md:text-3xl font-bold text-ink">12. - 19.</p>
                 <p className="text-3xl md:text-4xl font-bold text-ink">Juli</p>
@@ -72,13 +73,13 @@ export default function OpeningPopup() {
               </p>
 
               <div className="flex flex-col sm:flex-row gap-3">
-                <Link
+                {/*<Link
                   href="/angebot"
                   onClick={handleClose}
                   className="flex-1 bg-orange text-ink font-bold text-center px-6 py-4 rounded-xl hover:bg-opacity-90 transition-all duration-300 hover:scale-105 hover:shadow-xl"
                 >
                   Mehr erfahren
-                </Link>
+                </Link>*/}
                 <button
                   onClick={handleClose}
                   className="px-6 py-4 border-2 border-cream border-opacity-30 text-cream font-semibold rounded-xl hover:bg-cream hover:bg-opacity-10 transition-all duration-300"
