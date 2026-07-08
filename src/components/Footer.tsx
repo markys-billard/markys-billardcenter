@@ -41,7 +41,7 @@ export default function Footer() {
             <div className="space-y-2">
               <div className="flex justify-between">
                 <span className="font-medium">Montag</span>
-                <span>geschlossen</span>
+                <span>Geschlossen</span>
               </div>
               <div className="flex justify-between">
                 <span className="font-medium">Dienstag – Donnerstag</span>
