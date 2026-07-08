@@ -5,12 +5,13 @@ import { Link } from '../router';
 export default function OpeningPopup() {
   // POPUP DISABLED - Grand opening event has ended
   // To reuse this popup template for future events, uncomment the code below and update the event details
+  // changed 'markys_popup_seen' to 'markys_popup_seen_2' to show it to everyone again
 
   /*open comment here to disable popup*/
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
-    const hasSeenPopup = localStorage.getItem('markys_popup_seen');
+    const hasSeenPopup = localStorage.getItem('markys_popup_seen_2');
 
     if (!hasSeenPopup) {
       const timer = setTimeout(() => {
