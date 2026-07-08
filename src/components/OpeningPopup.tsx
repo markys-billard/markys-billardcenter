@@ -6,7 +6,7 @@ export default function OpeningPopup() {
   // POPUP DISABLED - Grand opening event has ended
   // To reuse this popup template for future events, uncomment the code below and update the event details
 
-  /*
+  /*open comment here to disable popup*/
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
@@ -53,22 +53,22 @@ export default function OpeningPopup() {
               <div className="text-center">
                 <PartyPopper size={80} className="text-ink mx-auto mb-4" />
                 <p className="text-5xl md:text-6xl font-bold text-ink"></p>
-                <p className="text-2xl md:text-3xl font-bold text-ink">28.</p>
-                <p className="text-3xl md:text-4xl font-bold text-ink">Februar</p>
+                <p className="text-2xl md:text-3xl font-bold text-ink">12. - 19.</p>
+                <p className="text-3xl md:text-4xl font-bold text-ink">Juli</p>
               </div>
             </div>
 
             <div className="md:w-3/5 p-8 md:p-10">
               <h2 className="text-cream text-2xl md:text-3xl lg:text-4xl font-serif mb-3">
-                Eröffnung am 28. Februar 2026
+                Betriebsferien
               </h2>
 
               <p className="text-orange text-lg md:text-xl font-semibold mb-4">
-                Feiere mit uns die grosse Eröffnung des neuen Markys Billardcenter Brig.
+                Vom 12. bis 19. Juli 2026 bleibt das Billardcenter geschlossen.
               </p>
 
               <p className="text-cream text-opacity-90 mb-6 text-sm md:text-base leading-relaxed">
-                Erlebe Premium-Billard, Darts, Bar & Lounge in stilvollem Ambiente. Zur offiziellen Eröffnung laden wir dich herzlich ein – mit Drinks, Musik & guter Stimmung!
+                Ab dem 20. Juli sind wir wieder wie gewohnt für euch da. Wir wünschen euch einen schönen Sommer! ☀️
               </p>
 
               <div className="flex flex-col sm:flex-row gap-3">
@@ -128,7 +128,7 @@ export default function OpeningPopup() {
       `}</style>
     </>
   );
-  */
+  /*close comment here*/
 
   return null;
 }
