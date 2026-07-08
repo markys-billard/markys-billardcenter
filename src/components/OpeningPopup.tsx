@@ -69,7 +69,7 @@ export default function OpeningPopup() {
               </p>
 
               <p className="text-cream text-opacity-90 mb-6 text-sm md:text-base leading-relaxed">
-                Ab dem 20. Juli sind wir wieder wie gewohnt für euch da. Wir wünschen euch einen schönen Sommer! ☀️
+                Ab dem 21. Juli sind wir wieder wie gewohnt für euch da. Wir wünschen euch einen schönen Sommer! ☀️
               </p>
 
               <div className="flex flex-col sm:flex-row gap-3">
