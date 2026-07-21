@@ -282,7 +282,7 @@ export const de = {
     saturday: 'Samstag',
     saturdayTime: '14:00 – 24:00',
     sunday: 'Sonntag',
-    sundayTime: '14:00 – 22:00',
+    sundayTime: '14:00 – 20:00',
     winterNote: '',
     contactTitle: 'Kontakt',
     businessName: 'Markys Billardcenter',
