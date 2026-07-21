@@ -275,7 +275,7 @@ export const de = {
     todayMessage: 'Für kurzfristige Reservationen am selben Tag rufen Sie uns bitte direkt an, um die Verfügbarkeit zu prüfen.',
     callNow: 'Jetzt anrufen',
     openingHoursTitle: 'Öffnungszeiten',
-    monThu: 'Montag – Donnerstag',
+    monThu: 'Dienstag – Donnerstag',
     monThuTime: '17:00 – 23:00',
     friday: 'Freitag',
     fridayTime: '16:00 – 24:00',
