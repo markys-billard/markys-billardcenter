@@ -5,13 +5,12 @@ import { Link } from '../router';
 export default function OpeningPopup() {
   // POPUP DISABLED - Grand opening event has ended
   // To reuse this popup template for future events, uncomment the code below and update the event details
-  // changed 'markys_popup_seen' to 'markys_popup_seen_2' to show it to everyone again
 
-  /*open comment here to disable popup*/
+  /*
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
-    const hasSeenPopup = localStorage.getItem('markys_popup_seen_2');
+    const hasSeenPopup = localStorage.getItem('markys_popup_seen');
 
     if (!hasSeenPopup) {
       const timer = setTimeout(() => {
@@ -52,35 +51,34 @@ export default function OpeningPopup() {
           <div className="flex flex-col md:flex-row">
             <div className="md:w-2/5 bg-gradient-to-br from-orange to-orange/80 p-8 flex items-center justify-center">
               <div className="text-center">
-                {/*<PartyPopper size={80} className="text-ink mx-auto mb-4" />*/}
-                <div className="text-7xl mb-4">🏖️</div>
+                <PartyPopper size={80} className="text-ink mx-auto mb-4" />
                 <p className="text-5xl md:text-6xl font-bold text-ink"></p>
-                <p className="text-2xl md:text-3xl font-bold text-ink">12. - 19.</p>
-                <p className="text-3xl md:text-4xl font-bold text-ink">Juli</p>
+                <p className="text-2xl md:text-3xl font-bold text-ink">28.</p>
+                <p className="text-3xl md:text-4xl font-bold text-ink">Februar</p>
               </div>
             </div>
 
             <div className="md:w-3/5 p-8 md:p-10">
               <h2 className="text-cream text-2xl md:text-3xl lg:text-4xl font-serif mb-3">
-                Betriebsferien
+                Eröffnung am 28. Februar 2026
               </h2>
 
               <p className="text-orange text-lg md:text-xl font-semibold mb-4">
-                Vom 12. bis 19. Juli 2026 bleibt das Billardcenter geschlossen.
+                Feiere mit uns die grosse Eröffnung des neuen Markys Billardcenter Brig.
               </p>
 
               <p className="text-cream text-opacity-90 mb-6 text-sm md:text-base leading-relaxed">
-                Ab dem 21. Juli sind wir wieder wie gewohnt für euch da. Wir wünschen euch einen schönen Sommer! ☀️
+                Erlebe Premium-Billard, Darts, Bar & Lounge in stilvollem Ambiente. Zur offiziellen Eröffnung laden wir dich herzlich ein – mit Drinks, Musik & guter Stimmung!
               </p>
 
               <div className="flex flex-col sm:flex-row gap-3">
-                {/*<Link
+                <Link
                   href="/angebot"
                   onClick={handleClose}
                   className="flex-1 bg-orange text-ink font-bold text-center px-6 py-4 rounded-xl hover:bg-opacity-90 transition-all duration-300 hover:scale-105 hover:shadow-xl"
                 >
                   Mehr erfahren
-                </Link>*/}
+                </Link>
                 <button
                   onClick={handleClose}
                   className="px-6 py-4 border-2 border-cream border-opacity-30 text-cream font-semibold rounded-xl hover:bg-cream hover:bg-opacity-10 transition-all duration-300"
@@ -130,7 +128,7 @@ export default function OpeningPopup() {
       `}</style>
     </>
   );
-  /*close comment here*/
+  */
 
   return null;
 }
