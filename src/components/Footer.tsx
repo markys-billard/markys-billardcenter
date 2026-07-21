@@ -40,6 +40,10 @@ export default function Footer() {
             <h3 className="text-2xl mb-4 text-cream" style={{ fontFamily: 'Cinzel, serif' }}>{t('footer.openingHours')}</h3>
             <div className="space-y-2">
               <div className="flex justify-between">
+                <span className="font-medium">Montag</span>
+                <span>Geschlossen</span>
+              </div>
+              <div className="flex justify-between">
                 <span className="font-medium">Montag – Donnerstag</span>
                 <span>17:00 – 23:00</span>
               </div>
@@ -53,7 +57,7 @@ export default function Footer() {
               </div>
               <div className="flex justify-between">
                 <span className="font-medium">Sonntag</span>
-                <span>14:00 – 22:00</span>
+                <span>14:00 – 20:00</span>
               </div>
               
             </div>
