@@ -119,7 +119,7 @@ export const en = {
     loungeFeature4: 'Relaxed bar atmosphere',
     toGastro: 'To the gastro menu',
     gastroTitle: 'Gastro Menu',
-    gastroText: 'Our team offers you hot and cold drinks with or without alcohol. Enjoy a delicious snack such as Markys Pinsa or the Burger 51, also available in a vegetarian option.',
+    gastroText: 'Our team offers you hot and cold drinks with or without alcohol. Enjoy a delicious snack such as Markys Pinsa, also available in a vegetarian option.',
     menuPdf: 'Food & Drink Menu (PDF)',
     readyTitle: 'Ready for your game?',
     readyText: 'Reserve your table now and experience premium billiards in Brig',
