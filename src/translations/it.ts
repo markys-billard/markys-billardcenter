@@ -119,7 +119,7 @@ export const it = {
     loungeFeature4: 'Atmosfera da bar rilassata',
     toGastro: 'Vedi l\'offerta gastronomica',
     gastroTitle: 'Offerta Gastronomica',
-    gastroText: 'Il nostro team offre bevande calde e fredde, con o senza alcol. Prova uno snack delizioso come la Pinsa Markys o il Burger 51, disponibile anche in versione vegetariana.',
+    gastroText: 'Il nostro team offre bevande calde e fredde, con o senza alcol. Prova uno snack delizioso come la Pinsa Markys, disponibile anche in versione vegetariana.',
     menuPdf: 'Menu bevande e cibo (PDF)',
     readyTitle: 'Pronto per giocare?',
     readyText: 'Prenota ora il tuo tavolo e vivi il biliardo premium a Briga',
