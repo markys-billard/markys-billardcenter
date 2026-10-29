@@ -162,7 +162,7 @@ export const de = {
     registerNow: 'Jetzt Anmelden',
     moreInfo: 'Mehr Infos',
     monthlyTitle: 'Monatliches Turnier',
-    monthlyDesc: 'Bei uns finden regelmässig 1× pro Monat jeweils ein Anfänger- und ein Fortgeschrittenen-Turnier statt.',
+    monthlyDesc: 'Bei uns finden regelmässig 1× pro Monat jeweils ein Anfänger- und ein Fortgeschrittenen-Turnier statt – immer am letzten Montag im Monat. Einspielen ab 18:00 Uhr, Turnierstart 18:30 Uhr.',
     beginnerLabel: 'Anfängerturnier:',
     beginnerDesc: 'vorwiegend 8-Ball.',
     advancedLabel: 'Fortgeschrittene:',
