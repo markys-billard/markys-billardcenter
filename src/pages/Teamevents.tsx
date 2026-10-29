@@ -60,7 +60,7 @@ export default function Teamevents() {
       <section
         className="relative min-h-screen flex flex-col justify-center bg-cover bg-center pt-24"
         style={{
-          backgroundImage: `linear-gradient(rgba(1, 20, 35, 0.75), rgba(1, 20, 35, 0.75)), url('/header_images/teamevent.webp')`,
+          backgroundImage: `linear-gradient(rgba(1, 20, 35, 0.75), rgba(1, 20, 35, 0.75)), url('/header_images/teamevent_2.webp')`,
         }}
       >
         <div className="container-custom">
