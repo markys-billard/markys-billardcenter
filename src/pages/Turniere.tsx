@@ -117,10 +117,7 @@ export default function Turniere() {
           <div className="grid grid-cols-1 gap-8 max-w-2xl mx-auto">
             <div className="bg-ink rounded-2xl shadow-xl overflow-hidden hover:shadow-2xl transition-all duration-300 hover:-translate-y-2">
               <div className="p-6 flex gap-6">
-                <div className="flex-shrink-0 text-center bg-orange rounded-xl p-4 w-20">
-                  <div className="text-3xl font-bold text-ink">{t('turniere.tournamentDate')}</div>
-                  <div className="text-sm font-semibold text-ink uppercase">{t('turniere.tournamentMonth')}</div>
-                </div>
+                
                 <div className="flex-1">
                   <h3 className="text-2xl font-serif text-orange mb-2">{t('turniere.tournamentTitle')}</h3>
                   <p className="text-cream text-opacity-90 mb-4">{t('turniere.tournamentDesc')}</p>
