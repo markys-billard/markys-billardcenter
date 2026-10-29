@@ -183,7 +183,7 @@ export const de = {
     tournamentDate: '15',
     tournamentMonth: 'Nov',
     tournamentTitle: 'Monatliches Poolbillard & Darts Turnier',
-    tournamentDesc: 'Anfänger: 8-Ball · Fortgeschrittene: 8-/9-/10-Ball.',
+    tournamentDesc: 'Anfänger: 8-Ball · Fortgeschrittene: 8-/9-/10-Ball. · Immer am letzten Montag im Monat – Einspielen ab 18:00, Turnierstart 18:30.',
     detailsRegistration: 'Details & Anmeldung →',
   },
   preise: {
