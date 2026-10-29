@@ -119,7 +119,7 @@ export const fr = {
     loungeFeature4: 'Ambiance bar détendue',
     toGastro: 'Voir l\'offre gastro',
     gastroTitle: 'Offre Gastronomique',
-    gastroText: 'Notre équipe vous propose des boissons chaudes ou froides, avec ou sans alcool. Dégustez un délicieux snack comme la Pinsa Markys ou le Burger 51, également disponible en version végétarienne.',
+    gastroText: 'Notre équipe vous propose des boissons chaudes ou froides, avec ou sans alcool. Dégustez un délicieux snack comme la Pinsa Markys, également disponible en version végétarienne.',
     menuPdf: 'Carte des boissons & repas (PDF)',
     readyTitle: 'Prêt pour votre partie ?',
     readyText: 'Réservez votre table et profitez du billard premium à Brigue',
