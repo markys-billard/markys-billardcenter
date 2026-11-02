@@ -35,7 +35,7 @@ export const fr = {
     nextTournament: 'Prochain Tournoi',
     tournamentSubtitle: 'Tournoi mensuel débutants & avancés',
     tournamentTitle: 'Tournoi mensuel Billard & Fléchettes',
-    tournamentDesc: 'Débutants: 8-ball · Avancés: 8-/9-/10-ball.',
+    tournamentDesc: 'Débutants: 8-ball · Avancés: 8-/9-/10-ball · Toujours le dernier lundi du mois – Échauffement à partir de 18h00, début du tournoi à 18h30.',
     detailsRegistration: 'Détails & Inscription →',
     openingAndLocation: 'Horaires & Accès',
     openingHoursTitle: 'Horaires',
