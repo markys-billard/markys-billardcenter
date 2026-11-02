@@ -162,7 +162,7 @@ export const fr = {
     registerNow: 'S\'inscrire maintenant',
     moreInfo: 'Plus d\'infos',
     monthlyTitle: 'Tournoi mensuel',
-    monthlyDesc: 'Nous organisons chaque mois un tournoi débutants et un tournoi avancés.',
+    monthlyDesc: 'Nous organisons chaque mois un tournoi débutants et un tournoi avancés. Toujours le dernier lundi du mois – Échauffement à partir de 18h00, début du tournoi à 18h30.',
     beginnerLabel: 'Tournoi débutants :',
     beginnerDesc: 'principalement du 8-ball.',
     advancedLabel: 'Avancés :',
@@ -183,7 +183,7 @@ export const fr = {
     tournamentDate: '15',
     tournamentMonth: 'Nov',
     tournamentTitle: 'Tournoi mensuel Billard & Fléchettes',
-    tournamentDesc: 'Débutants : 8-ball · Avancés : 8-/9-/10-ball.',
+    tournamentDesc: 'Débutants : 8-ball · Avancés : 8-/9-/10-ball · Toujours le dernier lundi du mois – Échauffement à partir de 18h00, début du tournoi à 18h30.',
     detailsRegistration: 'Détails & inscription →',
   },
   preise: {
