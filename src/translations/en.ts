@@ -35,7 +35,7 @@ export const en = {
     nextTournament: 'Next Tournament',
     tournamentSubtitle: 'Monthly beginner & advanced tournament',
     tournamentTitle: 'Monthly Pool Billiards & Darts Tournament',
-    tournamentDesc: 'Beginners: 8-ball · Advanced: 8-/9-/10-ball.',
+    tournamentDesc: 'Beginners: 8-ball · Advanced: 8-/9-/10-ball · Always on the last Monday of the month – Warm-up from 6:00 PM, tournament starts at 6:30 PM.',
     detailsRegistration: 'Details & Registration →',
     openingAndLocation: 'Opening Hours & Directions',
     openingHoursTitle: 'Opening Hours',
