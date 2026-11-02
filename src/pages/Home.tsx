@@ -159,16 +159,12 @@ export default function Home() {
               </h3>
               <div className="space-y-4 text-ink">
                 <div className="flex justify-between py-2 border-b border-ink border-opacity-20">
-                  <span className="font-semibold">Montag</span>
-                  <span>Geschlossen</span>
-                </div>
-                <div className="flex justify-between py-2 border-b border-ink border-opacity-20">
-                  <span className="font-semibold">Dienstag – Donnerstag</span>
+                  <span className="font-semibold">Montag – Donnerstag</span>
                   <span>17:00 – 23:00</span>
                 </div>
                 <div className="flex justify-between py-2 border-b border-ink border-opacity-20">
                   <span className="font-semibold">Freitag</span>
-                  <span>16:00 – 24:00</span>
+                  <span>17:00 – 24:00</span>
                 </div>
                 <div className="flex justify-between py-2 border-b border-ink border-opacity-20">
                   <span className="font-semibold">Samstag</span>
