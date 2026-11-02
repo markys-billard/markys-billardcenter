@@ -162,7 +162,7 @@ export const en = {
     registerNow: 'Register Now',
     moreInfo: 'More Info',
     monthlyTitle: 'Monthly Tournament',
-    monthlyDesc: 'We host a beginner and advanced tournament once per month.',
+    monthlyDesc: 'We host a beginner and advanced tournament once per month. Always on the last Monday of the month – Warm-up from 6:00 PM, tournament starts at 6:30 PM.',
     beginnerLabel: 'Beginner Tournament:',
     beginnerDesc: 'mainly 8-ball.',
     advancedLabel: 'Advanced Players:',
@@ -183,7 +183,7 @@ export const en = {
     tournamentDate: '15',
     tournamentMonth: 'Nov',
     tournamentTitle: 'Monthly Pool Billiards & Darts Tournament',
-    tournamentDesc: 'Beginners: 8-ball · Advanced: 8-/9-/10-ball.',
+    tournamentDesc: 'Beginners: 8-ball · Advanced: 8-/9-/10-ball.· Always on the last Monday of the month – Warm-up from 6:00 PM, tournament starts at 6:30 PM.',
     detailsRegistration: 'Details & Registration →',
   },
   preise: {
