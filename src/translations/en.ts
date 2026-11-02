@@ -278,7 +278,7 @@ export const en = {
     monThu: 'Monday – Thursday',
     monThuTime: '5:00 PM – 11:00 PM',
     friday: 'Friday',
-    fridayTime: '4:00 PM – 12:00 AM',
+    fridayTime: '5:00 PM – 12:00 AM',
     saturday: 'Saturday',
     saturdayTime: '2:00 PM – 12:00 AM',
     sunday: 'Sunday',
