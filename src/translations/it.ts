@@ -278,7 +278,7 @@ export const it = {
     monThu: 'Lunedì – Giovedì',
     monThuTime: '17:00 – 23:00',
     friday: 'Venerdì',
-    fridayTime: '16:00 – 24:00',
+    fridayTime: '17:00 – 24:00',
     saturday: 'Sabato',
     saturdayTime: '14:00 – 24:00',
     sunday: 'Domenica',
