@@ -162,7 +162,7 @@ export const it = {
     registerNow: 'Iscriviti ora',
     moreInfo: 'Maggiori info',
     monthlyTitle: 'Torneo mensile',
-    monthlyDesc: 'Ogni mese organizziamo un torneo principianti e un torneo avanzati.',
+    monthlyDesc: 'Ogni mese organizziamo un torneo principianti e un torneo avanzati. Sempre l ultimo lunedì del mese – Riscaldamento dalle 18:00, inizio torneo alle 18:30.',
     beginnerLabel: 'Torneo principianti:',
     beginnerDesc: 'principalmente 8-ball.',
     advancedLabel: 'Giocatori avanzati:',
@@ -183,7 +183,7 @@ export const it = {
     tournamentDate: '15',
     tournamentMonth: 'Nov',
     tournamentTitle: 'Torneo mensile Biliardo & Freccette',
-    tournamentDesc: 'Principianti: 8-ball · Avanzati: 8-/9-/10-ball.',
+    tournamentDesc: 'Principianti: 8-ball · Avanzati: 8-/9-/10-ball · Sempre l ultimo lunedì del mese – Riscaldamento dalle 18:00, inizio torneo alle 18:30.',
     detailsRegistration: 'Dettagli & iscrizione →',
   },
   preise: {
