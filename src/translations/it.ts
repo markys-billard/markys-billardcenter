@@ -35,7 +35,7 @@ export const it = {
     nextTournament: 'Prossimo Torneo',
     tournamentSubtitle: 'Torneo mensile principianti & avanzati',
     tournamentTitle: 'Torneo mensile Biliardo & Freccette',
-    tournamentDesc: 'Principianti: 8-ball · Avanzati: 8-/9-/10-ball.',
+    tournamentDesc: 'Principianti: 8-ball · Avanzati: 8-/9-/10-ball · Sempre l ultimo lunedì del mese – Riscaldamento dalle 18:00, inizio torneo alle 18:30.',
     detailsRegistration: 'Dettagli & Iscrizione →',
     openingAndLocation: 'Orari & Come arrivare',
     openingHoursTitle: 'Orari',
